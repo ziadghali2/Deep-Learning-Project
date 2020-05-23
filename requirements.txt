@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+# tensorflow
+keras
+
+
+scipy
+matplotlib
+seaborn
+
+# Auto-feature extraction package
+tsfresh
+
+# MATLAB
+# Signal Processing Toolbox (MATLAB)
